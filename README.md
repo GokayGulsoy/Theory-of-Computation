@@ -18,7 +18,7 @@
 14. Nondeterministic and Universal Turing Machines
 15. Traveling Salesman Problem, Reachability, Eulerian and Hamiltonian Cycles
 
-Textbooks can be found on: [Course textbooks 1](/Textbook1)
+Textbooks can be found on: [Course textbooks 1](/Textbook/ges, and Computation, John E. Hopcroft, Rajeev Motwani, and Jeff - Introduction to automata theory, languages, and computation (2006, Pearson_AddisonWesley).pdf)
 
 Textbooks can be found on: [Course textbook 2](/Textbook2)
   
