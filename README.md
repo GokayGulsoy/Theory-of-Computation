@@ -24,9 +24,12 @@ Some other useful textbooks are as follows:
 
 1.Lewis, Harry R., Papadimitriou, Christos H.;1998; Elements of the Theory of
 Computation"; 2nd Ed.; Upper Saddle River, NJ: Prentice-Hall ISBN 013-262478-8.
+
 2. Cohen, Daniel I.A.;1997; "Introduction to Computer Theory"; 2nd Ed.; John Wiley & Sons,
 Inc. ISBN 047-113772-3
+
 3. Linz, Peter;2001; "An Introduction to Formal Languages and Automata"; 4th Ed.; Jones
 and Bartlett Publishers, Inc. ISBN 076-373798-4.
+
 4.Rich, Elaine;2008; "Automata, Computability, and Complexity Theory and Applications";
 Upper Saddle River, NJ: Prentice-Hall ISBN 013-228806-0.
